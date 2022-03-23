@@ -7,7 +7,8 @@
 #include <iostream>
 
 int main() {
-    // This function calculates the cost of a pizza
+    /// This program calculates the perimeter of a kite
+    // with user input
     int side_a;
     int side_b;
     int perimeter;
